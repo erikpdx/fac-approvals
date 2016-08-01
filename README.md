@@ -9,3 +9,5 @@ The plugin allows clients to send their feedback directly from the same screen t
 
 ### Dependencies
 This plugin integrates with Gravity Forms (v 1.0+) and Advanced Custom Fields (v 4.0+), both of which are required.
+
+<img src=http://i.imgur.com/jILo3.png>
