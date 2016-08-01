@@ -5,5 +5,5 @@ This plugin allows a creative team to quickly and easily share Facebook ad proof
 
 The plugin allows clients to send their feedback directly from the same screen they view the ads. This results in quicker feedback and a shorter ad creation cycle.
 
-##### Dependencies
+### Dependencies
 This plugin integrates with Gravity Forms (v 1.0+) and Advanced Custom Fields (v 4.0+), both of which are required.
